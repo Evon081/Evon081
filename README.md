@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Evon081
+- 👋 Hi, I’m Iveren Agbo
 - 👀 I’m interested in product management and SaFe
 - 🌱 I’m currently learning scrum
 - 💞️ I’m looking to learn more about product management
